@@ -3,7 +3,7 @@ Repository of a technical Interview
 
 Table of contents 
 
-* (Notbook)[https://github.com/semilun4/Data-Science_Technical-Interview/edit/main/README.md]
+* [Notebook](https://github.com/semilun4/Data-Science_Technical-Interview/edit/main/README.md)
+* [Data](https://www.kaggle.com/datasets/vikalpdongre/us-flights-data-2008)
 
-https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7
 
